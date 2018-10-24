@@ -29,14 +29,14 @@ http://www.gks.ru/wps/wcm/connect/rosstat_main/rosstat/ru/statistics/wages/
 ## 5. Лицензия
 Creative Commons Attribution
 
-Автор:ЧжаоЮань
+Автор: ЧжаоЮань
 
 E-mail：racheldream@outlook.com
 
 ## 6. Инструменты, форматы данных
-инструмент:Excel2018
+инструмент: Excel2018
 
-формат данных:xlsx
+формат данных: xlsx
 
 ## 7. Peer Review
    
