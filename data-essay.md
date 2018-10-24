@@ -34,7 +34,7 @@ Creative Commons Attribution
 E-mail：racheldream@outlook.com
 
 ## 6. Инструменты, форматы данных
-инструмент: Excel2018
+инструмент: Excel2018, ckan
 
 формат данных: xlsx
 
